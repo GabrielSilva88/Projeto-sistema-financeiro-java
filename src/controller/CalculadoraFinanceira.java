@@ -7,7 +7,6 @@ import model.Receita;
 
 public class CalculadoraFinanceira {
 
-	// atibutos e metodo estatico
 	/*
 	 * Implementar a classe CalculadoraFinanceira no pacote controller, contendo
 	 * métodos estáticos para calcular o saldo atual e a média de despesas.
